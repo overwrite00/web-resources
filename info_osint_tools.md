@@ -10,3 +10,4 @@
 |[guballa.de](https://www.guballa.de/)|Risolutore di crittogrammi e Vigenère.|
 |[CSIRT - Italia](https://www.csirt.gov.it/)|Fornisce informazioni su ALERT, CVE e Bollettini di sicurezza.|
 |[OWASP Foundation - GitHub](https://github.com/OWASP)|Pagina ufficiale della OWASP Foundation dove è possibile trovare diversi repository utili per la Security.|
+|[Have I Been Pwned](https://haveibeenpwned.com/)|Verifica se il tuo indirizzio email è interessato in un data breach.|
