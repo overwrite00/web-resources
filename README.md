@@ -1,4 +1,4 @@
-# :memo: Risorse utili in ambito :shield:Cybersecurity
+# :memo:Risorse utili in ambito :shield:Cybersecurity
 
 ![image](images/proxy-image.jpg)
 
