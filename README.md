@@ -11,4 +11,4 @@ Quello che segue è un :clipboard:elenco a siti web, tools e framework utili per
 * [Siti vari](sites.md)
 * [Info - OSINT - Tools...](info_osint_tools.md)
 * [Threat Intelligence](threat_intelligence.md)
-* 
+* prova
