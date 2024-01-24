@@ -1,4 +1,4 @@
-# :memo: Siti web per :information_source:Info, :mag:OSINT, :wrench:Tools e :gear:Framework
+# :memo:Siti web per :information_source:Info, :mag:OSINT, :wrench:Tools e :gear:Framework
 
 |Nome sito|Descrizione|
 |:----|:---|
