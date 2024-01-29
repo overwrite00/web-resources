@@ -10,6 +10,6 @@ Quello che segue è un 📋elenco a siti web, tools e framework. Questo elenco s
 
 * [Siti vari](various.md)
 * [Info - Tools - Framework](info_tools.md)
-* [Threat Intelligence](threat_intelligence.md)
+* [Threat Intelligence](👾threat_intelligence.md)
 * [Apprendimento](learning.md)
 * 
