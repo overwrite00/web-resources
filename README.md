@@ -8,8 +8,7 @@ Quello che segue è un 📋elenco a siti web, tools e framework. Questo elenco s
 
 ## 📌Elenco categorie
 
-* [Siti vari](various.md)
-* [Info - Tools - Framework](info_tools.md)
-* [Threat Intelligence](👾threat_intelligence.md)
-* [Apprendimento](learning.md)
-* 
+* 🗂️[Siti vari](🗂️various.md)
+* ℹ️[Info - Tools - Framework](ℹ️info_tools.md)
+* 🕵️[Threat Intelligence](🕵️threat_intelligence.md)
+* 👨‍🏫[Apprendimento](👨‍🏫learning.md)
