@@ -10,7 +10,7 @@ Ho suddiviso la lista per [categorie](#📌elenco-categorie) cercando di concent
 
 ## 📌[Elenco categorie](#📌elenco-categorie)
 
-* 🗂️[Siti vari](🗂️various.md)
-* ℹ️[Info - Tools - Framework](ℹ️info_tools.md)
-* 🕵️[Threat Intelligence](🕵️threat_intelligence.md)
-* 👨‍🏫[Apprendimento](👨‍🏫learning.md)
+* 🗂️[Siti vari](🗂️Various.md)
+* ℹ️[Info - Tools - Framework](ℹ️Info-Tools.md)
+* 🕵️[Threat Intelligence](🕵️Threat%20Intelligence.md)
+* 👨‍🏫[Apprendimento](👨‍🏫E-Learning.md)
