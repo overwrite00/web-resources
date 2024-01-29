@@ -4,7 +4,6 @@
 | **Sito/Link** | **Descrizione** |
 | :--- | :--: |
 | [MITRE ATT&CK](https://attack.mitre.org/) | Linea guida per classificare e descrivere attacchi informatici e intrusioni. |
-| [DRM - Dashboard Ransomware Monitor](https://ransomfeed.it/) | Monitor di gruppi ransomware, con l'attività di scraping, per memorizzare le rivendicazioni in un feed RSS permanente (dal 12-01-2020). |
 | [CSIRT - Italia](https://www.csirt.gov.it/) | Fornisce informazioni su ALERT, CVE e Bollettini di sicurezza. |
 ## 🛠Tools
 | **Sito/Link** | **Descrizione** |
