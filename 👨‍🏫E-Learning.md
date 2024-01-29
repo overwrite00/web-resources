@@ -1,7 +1,7 @@
 # 👨‍🏫- Elenco di siti per l'apprendimento 
 
 ## [Piattaforme di apprendimento](#e-learning-platforms)
-|    Sito/Link                                                               |    Descrizione                                                                                                                                                                                                                                                                       |
+|    **Sito/Link**                                                               |    **Descrizione**                                                                                                                                                                                                                                                                       |
 |:---------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    [OpenSecurityTraining2](https://opensecuritytraining.info/Home.html)    |    La missione di OpenSecurityTraining2 è fornire la migliore e più approfondita formazione sulla sicurezza informatica al mondo con lezioni su **System Security**, **Secure Coding**, **Vulnerability Hunting** e **Vulnerability Exploitation**, **Malware Analysis**.            |
 | [Skill for All by Cisco](https://skillsforall.com/)                        | Corsi online e gratuiti supportati da Cisco.                                                                                                                                                                                                                                         |
@@ -9,3 +9,7 @@
 
 ## [Piattaforme di CTF e pratica](#ctf-practice-platforms)
 
+| **Sito/Link** | **Descrizione** |
+|:----------|:------------|
+|           |             |
+|           |             |  
