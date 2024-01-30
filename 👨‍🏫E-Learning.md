@@ -1,6 +1,7 @@
-# 👨‍🏫- Elenco di siti per l'apprendimento 
+# 👨‍🏫- Elenco di siti per l'apprendimento
 
 ## [Piattaforme di apprendimento](#e-learning-platforms)  
+
 |     **Sito/Link**                                                                |     **Descrizione**                                                                                                                                                                                                                                                                        |
 |:---------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     [OpenSecurityTraining2](https://opensecuritytraining.info/Home.html)         |     La missione di OpenSecurityTraining2 è fornire la migliore e più approfondita formazione sulla sicurezza informatica al mondo con lezioni su **System Security**, **Secure Coding**, **Vulnerability Hunting** e **Vulnerability Exploitation**, **Malware Analysis**.                 |
