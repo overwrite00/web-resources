@@ -2,12 +2,12 @@
 
 ## ℹ[Information](#information)
 | **Sito/Link** | **Descrizione** |
-| :--- | :--: |
+| :--- | :--- |
 | [MITRE ATT&CK](https://attack.mitre.org/) | Linea guida per classificare e descrivere attacchi informatici e intrusioni. |
 | [CSIRT - Italia](https://www.csirt.gov.it/) | Fornisce informazioni su ALERT, CVE e Bollettini di sicurezza. |
 ## 🛠[Tools](#tools)
 | **Sito/Link** | **Descrizione** |
-| :--- | :--: |
+| :--- | :--- |
 | [CyberChef](https://gchq.github.io/CyberChef/) | Tools vari. |
 | [dnstwist - Phishing Domain Scanner](https://dnstwist.it/) | Motore di permutazione dei nomi di dominio per rilevare attacchi di phishing omografi, errori di battitura e impersonificazione del marchio. Esiste una versione come [script Python su GitHub](https://github.com/elceef/dnstwist). |
 | [dCode](https://www.dcode.fr/en) | Online ciphers, solvers, decoders and calculator. |
@@ -17,5 +17,5 @@
 
 ## ⚙[Framework](#framework)
 | **Sito/Link** | **Descrizione** |
-|:----------|:-----------:|
-|           |             |  
+| :--- | :--- |
+|  |  |
