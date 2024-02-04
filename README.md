@@ -14,4 +14,3 @@ Ho suddiviso la lista per [categorie](#📌elenco-categorie) cercando di concent
 * 📂[Info - Tools - Framework](Info-Tools.md)
 * 🕵️[Threat Intelligence](Threat%20Intelligence.md)
 * 👨‍🏫[Apprendimento](E-Learning.md)
-* 
