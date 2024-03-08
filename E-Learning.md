@@ -21,7 +21,7 @@
 |[Exploit.Education](https://exploit.education/)|Fornisce una varietà di risorse che possono essere utilizzate per imparare l'analisi della vulnerabilità, sviluppo di exploit, il debug del software,  analisi binaria e problemi generali di sicurezza informatica.|
 |[Google CTF](https://capturetheflag.withgoogle.com/)| |
 |[Hack The Box](https://www.hackthebox.com/)|Hacking Training For The Best|
-|[Defend the Web]()| |
+|[Defend the Web](https://defendtheweb.net/)| |
 |[Hacker101](https://www.hacker101.com/)| |
 |[CTF HackerSec](https://hackersec.com/ctf/)| |
 |[Hacking Lab](https://hacking-lab.com/)| |
