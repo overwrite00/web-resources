@@ -28,15 +28,22 @@
 |[Immersive Labs](https://www.immersivelabs.com/)| |
 |[NewbieContest](https://www.newbiecontest.org/)| |
 |[OverTheWire](https://overthewire.org/wargames/)| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
+|[PentesterLab](https://pentesterlab.com/)| |
+|[Penetration Testing Practice Lab - Vulnerable Apps/System](https://www.amanhardikar.com/mindmaps/Practice.html)| |
+|[PentestIT](https://lab.pentestit.ru/)| |
+|[PicoCTF](https://picoctf.com/)| |
+|[pwnable.kr](https://pwnable.kr/index.php)| |
+|[Root Me](https://www.root-me.org/)| |
+|[SANS Challenger](https://www.holidayhackchallenge.com/2023/)| |
+|[SmashTheStack](http://www.smashthestack.org/main.html)| |
+|[The Cryptopals Crypto Challenges](https://cryptopals.com/)| |
+|[TryHackMe](https://tryhackme.com/)| |
+|[VulnHub](https://www.vulnhub.com/)| |
+|[Vulnmachines](https://www.vulnmachines.com/)| |
+|[W3Challs Hacking Challenges](https://w3challs.com/)| |
+|[WeChall](https://www.wechall.net/)| |
+|[WebSploit Labs](https://websploit.org/)| |
+|[Zenk-Security](https://www.zenk-security.com/)| |
+|[Cyber Blue Team Labs, CTF Challenges, DFIR and SOC Tools](https://cyberdefenders.org/blueteam-ctf-challenges/)| |
+|[LetsDefend](https://letsdefend.io/)| |
+|[ThreatGEN](https://threatgen.com/)| |
