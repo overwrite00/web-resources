@@ -27,6 +27,22 @@
 | [Urlex](https://urlex.org/) | Mostra l'URL completo partendo da un URL abbreviato |
 | [CheckShortURL](https://checkshorturl.com/) | Mostra l'URL completo partendo da un URL abbreviato |
 
+## Scan, info e whois domini
+
+| **Sito/Link** | **Descrizione** |
+| :------------ | :-------------: |
+| [urlscan.io](https://urlscan.io/) |  |
+| [CheckPhish](https://checkphish.bolster.ai/) |  |
+| [ScamAdviser](https://www.scamadviser.com/) |  |
+| [VirusTotal](https://www.virustotal.com/gui/home/url) |  |
+| [PhishTank](https://phishtank.org/) |  |
+| [Certificate Search](https://crt.sh/) | Restituisce informazioni sui certificati di un ente, organizzazione o dominio |
+| [SpyOnWeb](https://spyonweb.com/) |  |
+| [dnstwister.report](https://dnstwister.report/) |  |
+| [DNS Checker](https://dnschecker.org/) |  |
+| [iplocation.io](https://iplocation.io/) |  |
+| [MX ToolBox](https://mxtoolbox.com/) |  |
+
 ## Framework
 
 | **Sito/Link** | **Descrizione** |
