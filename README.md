@@ -11,6 +11,5 @@ Ho suddiviso la lista per [categorie](#elenco-categorie) cercando di raggruppare
 ## Elenco categorie
 
 * [Siti Vari](Various.md)
-* [Info - Tools - Framework](Info-Tools.md)
 * [Threat Intelligence](Threat%20Intelligence.md)
 * [Apprendimento](E-Learning.md)
