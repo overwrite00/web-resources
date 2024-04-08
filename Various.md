@@ -12,6 +12,7 @@
 | **Sito/Link** | **Descrizione** |
 | :------------ | :-------------: |
 | [MITRE ATT&CK](https://attack.mitre.org/) | Linea guida per classificare e descrivere attacchi informatici e intrusioni. |
+| [D3FEND Matrix by MITRE](https://d3fend.mitre.org/) | A knowledge graph of cybersecurity countermeasures. |
 | [CSIRT - Italia](https://www.csirt.gov.it/) | Fornisce informazioni su ALERT, CVE e Bollettini di sicurezza. |
 
 ## Tools
