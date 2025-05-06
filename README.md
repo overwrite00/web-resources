@@ -11,5 +11,5 @@ Ho suddiviso la lista per [categorie](#elenco-categorie) cercando di raggruppare
 ## Elenco categorie
 
 * [Siti Vari](Various.md)
-* [Threat Intelligence](Threat%20Intelligence.md)
+* [OSINT & Cyber Threat Intelligence](OSINT-TI.md)
 * [Apprendimento](E-Learning.md)
