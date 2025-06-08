@@ -52,6 +52,7 @@
 | [DNS Checker](https://dnschecker.org/) |  |
 | [iplocation.io](https://iplocation.io/) |  |
 | [MX ToolBox](https://mxtoolbox.com/) |  |
+| [Hybrid Analysis](https://www.hybrid-analysis.com/) | Si tratta di un servizio di analisi del malware gratuito per la comunità che rileva e analizza le minacce sconosciute utilizzando un'esclusiva tecnologia di analisi ibrida. |
 
 ## Framework
 
