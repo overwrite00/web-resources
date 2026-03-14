@@ -1,7 +1,7 @@
 # Siti web vari
 
 | **Sito/Link** | **Descrizione** |
-| :------------ | :-------------: |
+| :------------ | :-------------- |
 | [Router Passwords](https://www.routerpasswords.com/) | Password di default dei maggiori modem/router. |
 | [Cyber Security Readiness](https://cybersecurityreadiness.it/) | Strumenti utili a ogni tipo di organizzazione, con particolare riferimento alle PMI, per garantire livelli appropriati di sicurezza informatica. |
 | [Test Site for Acunetix WVS](http://testphp.vulnweb.com/index.php) | Esempio di applicazione PHP, intenzionalmente vulnerabile agli attacchi web. Ha lo scopo di aiutarti a testare Acunetix. Ti aiuta anche a capire in che modo gli errori degli sviluppatori e una configurazione errata possono consentire a qualcuno di accedere al tuo sito web. Puoi usarlo per testare altri strumenti e anche le tue capacità di hacking manuale. Suggerimento: cercare potenziali SQL Injection, Cross-site Scripting (XSS) e Cross-site Request Forgery (CSRF) e altro ancora. |
@@ -11,7 +11,7 @@
 ## Information
 
 | **Sito/Link** | **Descrizione** |
-| :------------ | :-------------: |
+| :------------ | :-------------- |
 | [MITRE ATT&CK](https://attack.mitre.org/) | Linea guida per classificare e descrivere attacchi informatici e intrusioni. |
 | [D3FEND Matrix by MITRE](https://d3fend.mitre.org/) | A knowledge graph of cybersecurity countermeasures. |
 | [CSIRT - Italia](https://www.csirt.gov.it/) | Fornisce informazioni su ALERT, CVE e Bollettini di sicurezza. |
@@ -19,7 +19,7 @@
 ## Tools
 
 | **Sito/Link** | **Descrizione** |
-| :------------ | :-------------: |
+| :------------ | :-------------- |
 | [CyberChef](https://gchq.github.io/CyberChef/) | Tools vari. |
 | [dnstwist - Phishing Domain Scanner](https://dnstwist.it/) | Motore di permutazione dei nomi di dominio per rilevare attacchi di phishing omografi, errori di battitura e impersonificazione del marchio. Esiste una versione come [script Python su GitHub](https://github.com/elceef/dnstwist). |
 | [dCode](https://www.dcode.fr/en) | Online ciphers, solvers, decoders and calculator. |
@@ -31,7 +31,7 @@
 ## Verifica URL abbreviati
 
 | **Sito/Link** | **Descrizione** |
-| :-------------| :-------------: |
+| :-------------| :-------------- |
 | [Unshorten.It](https://unshorten.it/) | Mostra l'URL completo partendo da un URL abbreviato |
 | [Urlex](https://urlex.org/) | Mostra l'URL completo partendo da un URL abbreviato |
 | [CheckShortURL](https://checkshorturl.com/) | Mostra l'URL completo partendo da un URL abbreviato |
@@ -39,7 +39,7 @@
 ## Scan, info e whois domini
 
 | **Sito/Link** | **Descrizione** |
-| :------------ | :-------------: |
+| :------------ | :-------------- |
 | [urlscan.io](https://urlscan.io/) |  |
 | [CheckPhish](https://checkphish.bolster.ai/) |  |
 | [ScamAdviser](https://www.scamadviser.com/) |  |
@@ -57,5 +57,5 @@
 ## Framework
 
 | **Sito/Link** | **Descrizione** |
-| :------------ | :-------------: |
+| :------------ | :-------------- |
 | N/D           | N/D             |
