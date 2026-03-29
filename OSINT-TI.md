@@ -19,3 +19,5 @@
 | [PhishStats](https://phishstats.info/) | Piattaforma di aggregazione di feed di phishing raccolti da diverse fonti che vengono organizzate e condivise in tempo reale con dashboard grafiche. Ottimo per analisi di tendenza, con focus su brand impersonati, TLD usati e pattern nei domini malevoli. |
 | [URLScan](https://urlscan.io/) | Motore di ricerca web specializzato nella raccolta e analisi di URL. |
 | [The OSINT Vault](https://theosintvault.io/) | Strumenti OSINT organizzati con accuratezza, chiarezza e intenzione. Uno spazio di lavoro pulito per un vero lavoro investigativo. |
+| [Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit) | Kit di strumenti di indagine open source online. |
+| [](https://www.osintcombine.com/tools) | Strumenti OSINT gratuiti. |
