@@ -1,8 +1,8 @@
 # Cyber Threat Intelligence
 
 | **Nome sito** | **Descrizione** |
-| :------------ | :-------------: |
-| [Threat Intelligence Tool Kaspersky](https://go.kaspersky.com/ti_tool_2023.html) | Tool per la threat intelligence fornita da Kaspersky. |
+| :------------ | :-------------- |
+| <img width="300"/>[Threat Intelligence Tool Kaspersky](https://go.kaspersky.com/ti_tool_2023.html) | Tool per la threat intelligence fornita da Kaspersky. |
 | [DRM - Dashboard Ransomware Monitor](https://ransomfeed.it/) | Monitor di gruppi ransomware, con l'attività di scraping, per memorizzare le rivendicazioni in un feed RSS permanente (dal 12-01-2020) |
 | [APTMAP](https://andreacristaldi.github.io/APTmap/) di ***Andrea Cristaldi*** | Mappa grafica mondiale dei gruppi APT conosciuti. Attraverso una serie di strumenti grafici è possibile avere info sui vari gruppi **APT**, modus operandi, **TTP** e **malware** usati. È possibile effettuare anche ricerche tramite il nome dell'APT che interessa. |
 | [Cisco Talos Intelligence Group](https://www.talosintelligence.com) | Cisco Talos Intelligence Group è una delle più grandi e affidabili fonti al mondo di ricerche sulla sicurezza all'avanguardia. Fornisce i dati utilizzati dai prodotti e servizi di sicurezza Cisco per intraprendere azioni. |
@@ -20,4 +20,4 @@
 | [URLScan](https://urlscan.io/) | Motore di ricerca web specializzato nella raccolta e analisi di URL. |
 | [The OSINT Vault](https://theosintvault.io/) | Strumenti OSINT organizzati con accuratezza, chiarezza e intenzione. Uno spazio di lavoro pulito per un vero lavoro investigativo. |
 | [Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit) | Kit di strumenti di indagine open source online. |
-| <img width="300"/>[OSINT Combine](https://www.osintcombine.com/tools) | Strumenti OSINT gratuiti. |
+| [OSINT Combine](https://www.osintcombine.com/tools) | Strumenti OSINT gratuiti. |
