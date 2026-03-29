@@ -20,4 +20,4 @@
 | [URLScan](https://urlscan.io/) | Motore di ricerca web specializzato nella raccolta e analisi di URL. |
 | [The OSINT Vault](https://theosintvault.io/) | Strumenti OSINT organizzati con accuratezza, chiarezza e intenzione. Uno spazio di lavoro pulito per un vero lavoro investigativo. |
 | [Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit) | Kit di strumenti di indagine open source online. |
-| [](https://www.osintcombine.com/tools) | Strumenti OSINT gratuiti. |
+| [OSINT Combine](https://www.osintcombine.com/tools) | Strumenti OSINT gratuiti. |
