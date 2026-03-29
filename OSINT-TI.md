@@ -12,7 +12,7 @@
 # OSINT
 
 | **Nome sito**          | **Descrizione** |
-| :--------------------- | :-------------: |
+| :--------------------- | :-------------- |
 | [PhishTank](https://phishtank.org/) | Dal gruppo Cisco Talos è una piattaforma di raccolta di URL di phishing. È possibile segnalare, verificare e monitorare link sospetti. La valutazione dei link è affidata alla community di utenti, più utenti confermano la sospetta natura del link, più questo viene considerato pericoloso aumentandone la fattibilità come IOC. |
 | [URLhaus](https://urlhaus.abuse.ch/) | URLhaus è una piattaforma gestita da abuse.ch e Spamhaus. Lo scopo della piattaforma è raccogliere, tracciare e condividere URL malware, aiutando gli amministratori di rete e gli analisti della sicurezza a proteggere la loro rete e i loro clienti dalle minacce informatiche. |
 | [OTX AlienVault](https://otx.alienvault.com/) | Piattaforma collaborativa dove è possibile reperire IOC, tra cui URL di phishing, indirizzi IP, hash e domini che vengono condivisi da ricercatori e analisti di tutto il mondo. I feed contengono un insieme strutturato di indicatori che possono essere esportati e integrati nelle soluzioni di sicurezza. Gli IOC contengono anche le relative campagne di phishing. |
